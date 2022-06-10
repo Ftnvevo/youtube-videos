@@ -1,6 +1,6 @@
 import hashlib
 
-path = r'' # e.g. C:\Users\Fabio-Work\Desktop\python_project\video.mp4
+path = r'' # e.g. E:\Download\drive-download-20220610T040632Z-001\Prepaid FB IG\google duo prepaid.xlsx
 
 # with open(path, 'rb') as opened_file:
 #     content = opened_file.read()
